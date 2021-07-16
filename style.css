@@ -1,0 +1,64 @@
+h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
+  margin-top: 0;
+  font-family: Arial;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  margin-top: 0;
+  font-family: Arial;
+}
+
+p {
+  margin-left: 70px;
+  font-family: Arial;
+}
+.container {
+  width: 500px;
+  font-family: Arial;
+}
+
+.record {
+  float: left;
+  clear: left;
+  border: 1px solid #ccc;
+  width: 100%;
+  background-color: #f0f0f0;
+  margin-bottom: 5px;
+  border-radius: 0px 10px 10px 0px;
+  height: 30px;
+}
+
+.name {
+  float: left;
+  font-size: 12px;
+  font-weight: bold;
+  color: #fff;
+  height: 100%;
+  text-align: justify;
+  background-color: red;
+  padding-left: 10px;
+}
+
+.value {
+  float: right;
+}
+.content-div {
+  background-color: white;
+  display: inline-block;
+  width: 40%;
+  height: 230px;
+  margin: 20px 20px;
+  padding: 50px 50px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 3px 0 rgb(150, 150, 150);
+}
+
+#split-by-two {
+  width: 95vw;
+  margin: auto;
+  text-align: center;
+}
